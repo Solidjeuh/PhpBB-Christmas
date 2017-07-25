@@ -4,7 +4,7 @@
  * @package PhpBB Xmas extension
  * @copyright (c) 2016 Stoker
  * @license GNU General Public License, version 2 (GPL-2.0)
- * Nederlandse vertaling @ Solidjeuh <http://www.froddelpower.be> 
+ * Nederlandse vertaling @ Solidjeuh <https://www.froddelpower.be> 
 *
 */
 
